@@ -1,0 +1,14 @@
+Id: AnyDesk.AnyDesk
+Name: AnyDesk
+Publisher: AnyDesk Software GmbH
+Version: 9.0.1
+License: Freeware
+InstallerType: exe
+
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://download.anydesk.com/AnyDesk.exe
+    InstallerSha256: FFF4B96876B0C78DA96E57CF7CA1B0E0CBEE4FDE52047A9BDE52E25B062D69CA
+    Scope: machine
+
+

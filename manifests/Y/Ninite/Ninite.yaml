@@ -1,0 +1,12 @@
+---
+Id: Ninite.Ninite
+Name: Ninite
+Publisher: Ninite
+Version: 1.0.0
+License: Freeware
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://ninite.com/7zip-chrome-libreoffice/ninite.exe
+    InstallerSha256: 7CC44A0D9DF5B7B33E1E4EE9C9DC7CEB067DC56F0FBD38CD70D77384E607A5C8
+    Scope: machine
